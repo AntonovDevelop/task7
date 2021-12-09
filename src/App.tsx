@@ -15,7 +15,6 @@ import TableRow from '@mui/material/TableRow';
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from 'react-responsive-carousel';
 import { fontSize } from '@mui/system';
-import { Route } from 'react-router-dom';
 
 
 
